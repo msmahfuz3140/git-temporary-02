@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+
+}
+.ami{
+    color: aqua;
+    background-color: rgb(130, 110, 110);
+
+}
+.tumi{
+    background-color: blueviolet;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+li{
+    color: red;
+    display: inline;
+}
+span {
+    background-color: yellow;
+    border: 2px solid plum;
+    color: red;
+    /* margin: 40px;
+    /* padding: 40px; */ 
+    display: block;
+    box-shadow: 4px 4px solid green;
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.header{
+    color: aqua;
+    /* background-color: blueviolet; */
+    border: 10px solid black;
+    width: 500px;
+    box-shadow: 10px 10px 20px aquamarine;
+    height: 1400px;
+    text-align: center;
+    margin: 20px auto;
+    background-image: url('js.png');
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right top;
+    
+}
